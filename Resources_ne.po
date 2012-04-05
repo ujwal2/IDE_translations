@@ -1,82 +1,82 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Ujwal Shrestha <ujwal2ATgmailDOTcom>, 2012.
 #
-#, fuzzy
+
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-04-03 07:48+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"POT-Creation-Date: 2012-04-05 14:07+0545\n"
+"PO-Revision-Date: 2012-04-05 14:07+0545\n"
+"Last-Translator: Ujwal Shrestha <ujwal2ATgmailDOT.com>\n"
+"Language-Team: Nepali\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: Editor.java:366
 msgid "No files were added to the sketch."
-msgstr ""
+msgstr "इस्केचमा कुनै पनि फाइल राखिएको छैन।"
 
 #: Editor.java:369 Sketch.java:996
 msgid "One file added to the sketch."
-msgstr ""
+msgstr "इस्केचमा एउटा फाइल राखियो।"
 
 #: Editor.java:373
 #, java-format
 msgid "{0} files added to the sketch."
-msgstr ""
+msgstr "इस्केचमा {0} ओटा फाइलहरु राखियो।"
 
 #: Editor.java:484
 msgid "File"
-msgstr ""
+msgstr "फाइल"
 
 #: Editor.java:486 EditorToolbar.java:41
 msgid "New"
-msgstr ""
+msgstr "नयाँ"
 
 #: Editor.java:494 Base.java:900
 msgid "Open..."
-msgstr ""
+msgstr "खोल्नुहोस"
 
 #: Editor.java:503
 msgid "Sketchbook"
-msgstr ""
+msgstr "इस्केचबुक"
 
 #: Editor.java:509
 msgid "Examples"
-msgstr ""
+msgstr "उदाहरणहरु"
 
 #: Editor.java:514 Editor.java:1977
 msgid "Close"
-msgstr ""
+msgstr "बन्द"
 
 #: Editor.java:522 Editor.java:2017 Editor.java:2421 EditorToolbar.java:41
 #: EditorToolbar.java:46
 msgid "Save"
-msgstr ""
+msgstr "बचत"
 
 #: Editor.java:530
 msgid "Save As..."
-msgstr ""
+msgstr "अरु रुपमा बचत..."
 
 #: Editor.java:538 EditorToolbar.java:41
 msgid "Upload"
-msgstr ""
+msgstr "अपलोड"
 
 #: Editor.java:546 EditorToolbar.java:46
 msgid "Upload Using Programmer"
-msgstr ""
+msgstr "प्रोगामरबाट अपलोड"
 
 #: Editor.java:556
 msgid "Page Setup"
-msgstr ""
+msgstr "पेज सेटप"
 
 #: Editor.java:564
 msgid "Print"
-msgstr ""
+msgstr "प्रिन्ट"
 
 #: Editor.java:576 Preferences.java:217
 msgid "Preferences"
