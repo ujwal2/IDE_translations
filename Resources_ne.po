@@ -18,16 +18,16 @@ msgstr ""
 
 #: Editor.java:366
 msgid "No files were added to the sketch."
-msgstr "इस्केचमा कुनै पनि फाइल राखिएको छैन।"
+msgstr "स्केचमा कुनै पनि फाइल राखिएको छैन।"
 
 #: Editor.java:369 Sketch.java:996
 msgid "One file added to the sketch."
-msgstr "इस्केचमा एउटा फाइल राखियो।"
+msgstr "स्केचमा एउटा फाइल राखियो।"
 
 #: Editor.java:373
 #, java-format
 msgid "{0} files added to the sketch."
-msgstr "इस्केचमा {0} ओटा फाइलहरु राखियो।"
+msgstr "स्केचमा {0} ओटा फाइलहरु राखियो।"
 
 #: Editor.java:484
 msgid "File"
@@ -39,7 +39,7 @@ msgstr "नयाँ"
 
 #: Editor.java:494 Base.java:900
 msgid "Open..."
-msgstr "खोल्नुहोस"
+msgstr "खोल्नोस"
 
 #: Editor.java:503
 msgid "Sketchbook"
