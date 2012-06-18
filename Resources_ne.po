@@ -39,11 +39,11 @@ msgstr "नयाँ"
 
 #: Editor.java:494 Base.java:900
 msgid "Open..."
-msgstr "खोल्नोस"
+msgstr "खोल्नुहोस्"
 
 #: Editor.java:503
 msgid "Sketchbook"
-msgstr "इस्केचबुक"
+msgstr "स्केचबुक"
 
 #: Editor.java:509
 msgid "Examples"
@@ -60,7 +60,7 @@ msgstr "बचत"
 
 #: Editor.java:530
 msgid "Save As..."
-msgstr "अरु रुपमा बचत..."
+msgstr "अरु रूपमा बचत..."
 
 #: Editor.java:538 EditorToolbar.java:41
 msgid "Upload"
@@ -80,198 +80,198 @@ msgstr "प्रिन्ट"
 
 #: Editor.java:576 Preferences.java:217
 msgid "Preferences"
-msgstr ""
+msgstr "छनोटहरु"
 
 #: Editor.java:586 Base.java:779
 msgid "Quit"
-msgstr ""
+msgstr "त्यागनु"
 
 #: Editor.java:600
 msgid "Sketch"
-msgstr ""
+msgstr "स्केच"
 
 #: Editor.java:602
 msgid "Verify / Compile"
-msgstr ""
+msgstr "भेरिफाइ / कम्पाइल"
 
 #: Editor.java:629
 msgid "Import Library..."
-msgstr ""
+msgstr "संग्रह आयात गर्नुहोस्..."
 
 #: Editor.java:634
 msgid "Show Sketch Folder"
-msgstr ""
+msgstr "स्केच फोल्डर देखाउनुहोस्"
 
 #: Editor.java:643
 msgid "Add File..."
-msgstr ""
+msgstr "फाइल राख्नुहोस्"
 
 #: Editor.java:656
 msgid "Tools"
-msgstr ""
+msgstr "उपकरणहरु"
 
 #: Editor.java:662 EditorToolbar.java:41 EditorToolbar.java:46
 msgid "Serial Monitor"
-msgstr ""
+msgstr "सीरियल मनिटर"
 
 #: Editor.java:682
 msgid "Board"
-msgstr ""
+msgstr "बोर्ड"
 
 #: Editor.java:690
 msgid "Serial Port"
-msgstr ""
+msgstr "सीरियल पोर्ट"
 
 #: Editor.java:695
 msgid "Programmer"
-msgstr ""
+msgstr "प्रोग्रामर"
 
 #: Editor.java:699
 msgid "Burn Bootloader"
-msgstr ""
+msgstr "बुट्लोडर बर्नगर्नुहोस्"
 
 #: Editor.java:923
 msgid "serialMenu is null"
-msgstr ""
+msgstr "serialMenu शून्य छ"
 
 #: Editor.java:927 Editor.java:934
 msgid "name is null"
-msgstr ""
+msgstr "नाम शून्य हो"
 
 #: Editor.java:986
 msgid "error retrieving port list"
-msgstr ""
+msgstr "पोर्टसूची पुन:प्राप्‍त गर्दा त्रुटि भयो"
 
 #: Editor.java:1002
 msgid "Help"
-msgstr ""
+msgstr "सहायता"
 
 #: Editor.java:1041
 msgid "Getting Started"
-msgstr ""
+msgstr "आरम्भकार्य"
 
 #: Editor.java:1049
 msgid "Environment"
-msgstr ""
+msgstr "परिस्थति"
 
 #: Editor.java:1057
 msgid "Troubleshooting"
-msgstr ""
+msgstr "समस्या निवारण"
 
 #: Editor.java:1065
 msgid "Reference"
-msgstr ""
+msgstr "सन्दर्भ"
 
 #: Editor.java:1073 Editor.java:2728
 msgid "Find in Reference"
-msgstr ""
+msgstr "सन्दर्भमा खोज्नुहोस्"
 
 #: Editor.java:1083
 msgid "Frequently Asked Questions"
-msgstr ""
+msgstr "प्रायः सोधीने प्रश्नहरु"
 
 #: Editor.java:1091
 msgid "Visit Arduino.cc"
-msgstr ""
+msgstr "Arduino.cc मा जानुहोस्"
 
 #: Editor.java:1094
 msgid "http://arduino.cc/"
-msgstr ""
+msgstr "http://arduino.cc/"
 
 #: Editor.java:1102
 msgid "About Arduino"
-msgstr ""
+msgstr "आर्दुईनोको बारेमा"
 
 #: Editor.java:1116
 msgid "Edit"
-msgstr ""
+msgstr "संपादक"
 
 #: Editor.java:1119 Editor.java:1341
 msgid "Undo"
-msgstr ""
+msgstr "पूर्ववत् गर्नु"
 
 #: Editor.java:1124 Editor.java:1126 Editor.java:1376
 msgid "Redo"
-msgstr ""
+msgstr "पुनः गर्नु"
 
 #: Editor.java:1135 Editor.java:2652
 msgid "Cut"
-msgstr ""
+msgstr "कट गर्नु"
 
 #: Editor.java:1143 Editor.java:2660
 msgid "Copy"
-msgstr ""
+msgstr "प्रतिलिपि गर्नु"
 
 #: Editor.java:1151 Editor.java:2668
 msgid "Copy for Forum"
-msgstr ""
+msgstr "गोष्‍ठीकोलागि प्रतिलिपि गर्नु"
 
 #: Editor.java:1163 Editor.java:2676
 msgid "Copy as HTML"
-msgstr ""
+msgstr "HTML को रूपमा प्रतिलिपि गर्नु"
 
 #: Editor.java:1175 Editor.java:2684
 msgid "Paste"
-msgstr ""
+msgstr "पेस्टगर्नु"
 
 #: Editor.java:1184 Editor.java:2692
 msgid "Select All"
-msgstr ""
+msgstr "सबै चयन गर्नु"
 
 #: Editor.java:1194 Editor.java:2702
 msgid "Comment/Uncomment"
-msgstr ""
+msgstr "टिप्पणीत गर्नु / अटिप्पणीत गर्नु"
 
 #: Editor.java:1202 Editor.java:2710
 msgid "Increase Indent"
-msgstr ""
+msgstr "क्षतदण्ड वृद्धि गर्नु"
 
 #: Editor.java:1210 Editor.java:2718
 msgid "Decrease Indent"
-msgstr ""
+msgstr "क्षतदण्ड न्यून गर्नु "
 
 #: Editor.java:1220
 msgid "Find..."
-msgstr ""
+msgstr "खोजी..."
 
 #: Editor.java:1235
 msgid "Find Next"
-msgstr ""
+msgstr "अर्कोको खोजी"
 
 #: Editor.java:1245
 msgid "Find Previous"
-msgstr ""
+msgstr "पहिलाको खोजी"
 
 #: Editor.java:1255
 msgid "Use Selection For Find"
-msgstr ""
+msgstr "खोजीकोलागि चयन प्रयोगगर्नुहोस्"
 
 #: Editor.java:1816
 msgid "First select a word to find in the reference."
-msgstr ""
+msgstr "पहिला सन्दर्भमा खोज्नकोलागि एउटा शब्द चयन गर्नुहोस्।"
 
 #: Editor.java:1823
 #, java-format
 msgid "No reference available for \"{0}\""
-msgstr ""
+msgstr "\"{0}\" कोलागि कुनैपनि सन्दर्भ उपलब्ध भएन।"
 
 #: Editor.java:1826
 #, java-format
 msgid "{0}.html"
-msgstr ""
+msgstr "{0}.html"
 
 #: Editor.java:1843 Sketch.java:1647
 msgid "Compiling sketch..."
-msgstr ""
+msgstr "स्केच कम्पाइलगर्दै..."
 
 #: Editor.java:1864 Editor.java:1881
 msgid "Done compiling."
-msgstr ""
+msgstr "कम्पाइल पूरा भयो।"
 
 #: Editor.java:1973
 #, java-format
 msgid "Save changes to \"{0}\"?  "
-msgstr ""
+msgstr "के \"{0}\" मा परिवर्तनहरु बचत गर्नेहो?"
 
 #: Editor.java:2006
 msgid ""
@@ -280,19 +280,23 @@ msgid ""
 "want to save changes to this sketch<BR> before closing?</b><p>If you don't "
 "save, your changes will be lost."
 msgstr ""
+"<html> <head> <style type=\"text/css\">b { font: 13pt \"Lucida Grande\" }p { "
+"font: 11pt \"Lucida Grande\"; margin-top: 8px }</style> </head><b>के तपाँइ यो "
+"स्केचमा परिवर्तनहरु बचतगर्न चाहानुहुन्छ?<BR>बन्द गर्नु पहिले</b><p>यदि "
+"तपाँइले बचत गर्नुभएन भने, तपाँइको परिवर्तनहरु हराउने छ।"
 
 #: Editor.java:2017 Editor.java:2098 Editor.java:2418 Sketch.java:589
 #: Sketch.java:741 Sketch.java:1046 Preferences.java:78
 msgid "Cancel"
-msgstr ""
+msgstr "रद्द गर्नु"
 
 #: Editor.java:2017
 msgid "Don't Save"
-msgstr ""
+msgstr "बचत नगर्नु"
 
 #: Editor.java:2089
 msgid "Bad file selected"
-msgstr ""
+msgstr "सदोष फाइल चयन गर्नु"
 
 #: Editor.java:2090
 msgid ""
